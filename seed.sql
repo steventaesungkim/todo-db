@@ -1,6 +1,6 @@
-insert into todos
+INSERT INTO todos
     (name, completed)
-values
+VALUES
     ('walk the cat', false),
     ('repair the hyperdrive', false),
     ('return to Dagobah', false),

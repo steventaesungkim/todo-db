@@ -2,7 +2,7 @@
 -- name
 -- completed
 
-create table todos (
+CREATE TABLE todos (
     id serial primary key,
     name text,
     completed boolean
